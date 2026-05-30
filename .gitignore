@@ -1,0 +1,43 @@
+# Paper PDF
+CoFi.pdf
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Results
+results/
+results_video/
+outputs/
+
+# Model checkpoints and caches
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+.cache/
+
+# Environment
+.env
+*.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
